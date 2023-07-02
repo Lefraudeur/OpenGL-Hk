@@ -33,7 +33,7 @@ private:
 	}
 
 public:
-	bool draw = true;
+	bool draw = false;
 
 private:
 	static GUI* p_instance;
